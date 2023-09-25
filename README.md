@@ -1,1 +1,6 @@
 # test-getquote
+
+```
+make
+./demo
+```
